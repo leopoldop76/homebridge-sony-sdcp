@@ -34,7 +34,7 @@ Add as an accessory by editing the homebridge config.json file.
   {
     "accessory":      "sony-sdcp-projector",
     "name":           "Projector",
-    "host":           "192.168.1.19"
+    "ip":           "192.168.1.19"
   }
 ]
 ```
